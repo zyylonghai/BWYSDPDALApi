@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SDPCRL.CORE\SDPCRL.CORE.csproj" />
+    <ProjectReference Include="..\SDPCRL.DAL.COM\SDPCRL.DAL.COM.csproj" />
+    <ProjectReference Include="..\SDPCRL.DAL.IDBHelp\SDPCRL.DAL.IDBHelp.csproj" />
+  </ItemGroup>
+
+</Project>

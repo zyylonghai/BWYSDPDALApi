@@ -1,0 +1,14 @@
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\bin\Debug\netcoreapp2.1\SDPCRL.DAL.COM.deps.json
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\bin\Debug\netcoreapp2.1\SDPCRL.DAL.COM.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\bin\Debug\netcoreapp2.1\SDPCRL.DAL.COM.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\bin\Debug\netcoreapp2.1\BWYResFactory.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\bin\Debug\netcoreapp2.1\SDPCRL.CORE.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\bin\Debug\netcoreapp2.1\BWYResFactory.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\bin\Debug\netcoreapp2.1\SDPCRL.CORE.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\obj\Debug\netcoreapp2.1\SDPCRL.DAL.COM.csprojAssemblyReference.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\obj\Debug\netcoreapp2.1\SDPCRL.DAL.COM.csproj.CoreCompileInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\obj\Debug\netcoreapp2.1\SDPCRL.DAL.COM.AssemblyInfoInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\obj\Debug\netcoreapp2.1\SDPCRL.DAL.COM.AssemblyInfo.cs
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\obj\Debug\netcoreapp2.1\SDPCRL.DAL.COM.csproj.CopyComplete
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\obj\Debug\netcoreapp2.1\SDPCRL.DAL.COM.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.COM\obj\Debug\netcoreapp2.1\SDPCRL.DAL.COM.pdb

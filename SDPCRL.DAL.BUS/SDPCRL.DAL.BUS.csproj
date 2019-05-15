@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SDPCRL.DAL.DBHelp\SDPCRL.DAL.DBHelp.csproj" />
+    <ProjectReference Include="..\SDPCRL.IBussiness\SDPCRL.IBussiness.csproj" />
+  </ItemGroup>
+
+</Project>

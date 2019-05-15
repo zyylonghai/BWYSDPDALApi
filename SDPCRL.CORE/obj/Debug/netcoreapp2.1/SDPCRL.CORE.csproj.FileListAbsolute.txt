@@ -1,0 +1,8 @@
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.CORE\bin\Debug\netcoreapp2.1\SDPCRL.CORE.deps.json
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.CORE\bin\Debug\netcoreapp2.1\SDPCRL.CORE.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.CORE\bin\Debug\netcoreapp2.1\SDPCRL.CORE.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.CORE\obj\Debug\netcoreapp2.1\SDPCRL.CORE.csproj.CoreCompileInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.CORE\obj\Debug\netcoreapp2.1\SDPCRL.CORE.AssemblyInfoInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.CORE\obj\Debug\netcoreapp2.1\SDPCRL.CORE.AssemblyInfo.cs
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.CORE\obj\Debug\netcoreapp2.1\SDPCRL.CORE.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.CORE\obj\Debug\netcoreapp2.1\SDPCRL.CORE.pdb

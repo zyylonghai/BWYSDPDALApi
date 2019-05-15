@@ -1,0 +1,8 @@
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.IBussiness\bin\Debug\netcoreapp2.1\SDPCRL.IBussiness.deps.json
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.IBussiness\bin\Debug\netcoreapp2.1\SDPCRL.IBussiness.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.IBussiness\bin\Debug\netcoreapp2.1\SDPCRL.IBussiness.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.IBussiness\obj\Debug\netcoreapp2.1\SDPCRL.IBussiness.csproj.CoreCompileInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.IBussiness\obj\Debug\netcoreapp2.1\SDPCRL.IBussiness.AssemblyInfoInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.IBussiness\obj\Debug\netcoreapp2.1\SDPCRL.IBussiness.AssemblyInfo.cs
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.IBussiness\obj\Debug\netcoreapp2.1\SDPCRL.IBussiness.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.IBussiness\obj\Debug\netcoreapp2.1\SDPCRL.IBussiness.pdb

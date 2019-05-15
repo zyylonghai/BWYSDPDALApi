@@ -1,0 +1,10 @@
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\bin\Debug\netcoreapp2.1\BWYResFactory.deps.json
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\bin\Debug\netcoreapp2.1\BWYResFactory.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\bin\Debug\netcoreapp2.1\BWYResFactory.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\obj\Debug\netcoreapp2.1\BWYResFactory.Res.resources
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\obj\Debug\netcoreapp2.1\BWYResFactory.csproj.GenerateResource.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\obj\Debug\netcoreapp2.1\BWYResFactory.csproj.CoreCompileInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\obj\Debug\netcoreapp2.1\BWYResFactory.AssemblyInfoInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\obj\Debug\netcoreapp2.1\BWYResFactory.AssemblyInfo.cs
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\obj\Debug\netcoreapp2.1\BWYResFactory.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\BWYResFactory\obj\Debug\netcoreapp2.1\BWYResFactory.pdb

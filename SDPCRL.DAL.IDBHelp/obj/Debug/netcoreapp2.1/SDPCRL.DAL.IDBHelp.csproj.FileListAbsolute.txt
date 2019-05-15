@@ -1,0 +1,16 @@
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.deps.json
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\BWYResFactory.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\SDPCRL.CORE.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\SDPCRL.DAL.COM.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\SDPCRL.DAL.COM.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\BWYResFactory.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\bin\Debug\netcoreapp2.1\SDPCRL.CORE.pdb
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\obj\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.csprojAssemblyReference.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\obj\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.csproj.CoreCompileInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\obj\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.AssemblyInfoInputs.cache
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\obj\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.AssemblyInfo.cs
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\obj\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.csproj.CopyComplete
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\obj\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.dll
+F:\vsproject\BWYSDP(2)\NetCore\BWYSDPDALApi\SDPCRL.DAL.IDBHelp\obj\Debug\netcoreapp2.1\SDPCRL.DAL.IDBHelp.pdb

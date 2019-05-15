@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "SDPCRL.DAL.DBHelp/1.0.0": {
+        "dependencies": {
+          "SDPCRL.CORE": "1.0.0",
+          "SDPCRL.DAL.COM": "1.0.0",
+          "SDPCRL.DAL.IDBHelp": "1.0.0"
+        },
+        "runtime": {
+          "SDPCRL.DAL.DBHelp.dll": {}
+        }
+      },
+      "BWYResFactory/1.0.0": {
+        "runtime": {
+          "BWYResFactory.dll": {}
+        }
+      },
+      "SDPCRL.CORE/1.0.0": {
+        "runtime": {
+          "SDPCRL.CORE.dll": {}
+        }
+      },
+      "SDPCRL.DAL.COM/1.0.0": {
+        "dependencies": {
+          "BWYResFactory": "1.0.0",
+          "SDPCRL.CORE": "1.0.0"
+        },
+        "runtime": {
+          "SDPCRL.DAL.COM.dll": {}
+        }
+      },
+      "SDPCRL.DAL.IDBHelp/1.0.0": {
+        "dependencies": {
+          "SDPCRL.DAL.COM": "1.0.0"
+        },
+        "runtime": {
+          "SDPCRL.DAL.IDBHelp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDPCRL.DAL.DBHelp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BWYResFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDPCRL.CORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDPCRL.DAL.COM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDPCRL.DAL.IDBHelp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
